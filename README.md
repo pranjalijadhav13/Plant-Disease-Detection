@@ -6,7 +6,7 @@ By providing farmers with a CNN-based tool for early disease detection, we aim t
 
 **Dataset**
 
-We have worked with the PlantVillage dataset. This dataset contains 38 classes of plants with over 50,000 expertly curated images on healthy and infected leaves of crops plants through the existing online platform PlantVillage. 
+We have worked with the PlantVillage dataset. This dataset contains 38 classes of plants with over 50,000 expertly curated images on healthy and infected leaves of crops plants through the existing online platform PlantVillage. You can find the dataset [here](https://github.com/spMohanty/PlantVillage-Dataset)
 
 **Baseline Model**
 
