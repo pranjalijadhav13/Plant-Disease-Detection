@@ -18,13 +18,10 @@ We have worked with the PlantVillage dataset. This dataset contains 38 classes o
 
 **Baseline Results**
 
-<p align="left">
-  <img src="https://github.com/pranjalijadhav13/Plant-Disease-Detection/raw/main/images/baselineres1.png" alt="Baseline Result 1">
-</p>
+![image](https://github.com/user-attachments/assets/1995075a-1440-4742-b2c3-17cd82b66ce0)
 
-<p align="left">
-  <img src="https://github.com/pranjalijadhav13/Plant-Disease-Detection/raw/main/images/baselineres2.png" alt="Baseline Result 2">
-</p>
+![image](https://github.com/user-attachments/assets/d3eeb17b-7fed-4fc8-91f9-0c29cdff2c5c)
+
 
 **Improvised Model**
 
@@ -34,17 +31,17 @@ We have worked with the PlantVillage dataset. This dataset contains 38 classes o
 
 **CNN Architecture**
 
-![CNN Architecture](./images/cnnarch.png)
+![image](https://github.com/user-attachments/assets/1b2b4b6e-4984-4477-a36d-b47cea326477)
 
 **Improvised Results**
 
-![CNN Result 1](./images/cnnres1.jpg)
+![image](https://github.com/user-attachments/assets/0ea317a1-4986-485e-a79d-19377f446823)
 
-![CNN Result 2](./images/cnnres2.jpg)
+![image](https://github.com/user-attachments/assets/1e33e0bb-7f02-41b7-9487-9b858959981e)
 
 **Comparative Results**
 
-![Comparative Result](./images/compare.png)
+![image](https://github.com/user-attachments/assets/ec13efd8-7532-40d5-9b85-4cb16f157893)
 
 **Conclusion**
 
