@@ -18,10 +18,12 @@ We have worked with the PlantVillage dataset. This dataset contains 38 classes o
 
 **Baseline Results**
 
-![Baseline Result 1](./images/baselineres1.png)
+<p align="left">
+  <img src="https://github.com/pranjalijadhav13/Plant-Disease-Detection/raw/main/images/baselineres1.png" alt="Baseline Result 1">
+</p>
 
-<p align="center">
-  <img src="https://github.com/pranjalijadhav13/Plant-Disease-Detection/raw/main/images/baselineres2.png" alt="Baseline Result 2" width="100" height="100">
+<p align="left">
+  <img src="https://github.com/pranjalijadhav13/Plant-Disease-Detection/raw/main/images/baselineres2.png" alt="Baseline Result 2">
 </p>
 
 **Improvised Model**
